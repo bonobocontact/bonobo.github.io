@@ -22,8 +22,8 @@ hi,h2,h3,h4,h5,h6 {
 }
 
 p {
-	color:#aaa;
-	font-size:13px;
+	color: #272727;
+	font: size 15px;
 }
 a {
     text-decoration:none;
@@ -32,11 +32,11 @@ a {
     -webkit-transition: all 0.1s ease-in-out;
     -o-transition: all 0.1s ease-in-out;
     outline: none;
-	color:#272727;
+	  color:#272727;
 }
 a:hover {
 	text-decoration: none;
-	color:#aaa;	
+	color:#272727;	
 	}
 
 .btn {
@@ -119,7 +119,7 @@ a:hover {
 } 
 
 .nav-tabs > li a.active {
-	color: #555;
+	color: #272727;
 	cursor: default;
 	background-color: #fff;
 	border: 1px solid #fff;
@@ -330,7 +330,8 @@ a:hover {
 	text-transform:uppercase;
 	font-weight:550;
 	font-size:24px;
-	margin-bottom:30px;
+  margin-bottom:30px;
+  color: #272727
 }
 
 .skill_text {
@@ -338,6 +339,7 @@ a:hover {
   margin-bottom: 60px;
   margin-top: 25px;
   overflow: hidden;
+  color: #272727
 }
 
 .sinlge-skill {
@@ -431,7 +433,9 @@ a:hover {
 	text-transform:uppercase;
 	font-weight:550;
 	font-size:24px;
-	margin-bottom:30px;
+  margin-bottom:30px;
+  color: #272727
+
 }
 
 .team .text-center p {
@@ -845,7 +849,7 @@ figure.effect-marley:hover p {
 }
 .action .left-text em {
   font-size: 16px;
-  color: #aaa;
+  color: #272727;
   font-weight: 300;
   font-style: normal;
 }
