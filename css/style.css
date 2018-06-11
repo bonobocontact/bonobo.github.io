@@ -127,8 +127,8 @@ a:hover {
 }
 
 .navbar-default {
-	background-color: #65AAF0;
-	border-color:#65AAF0;
+	background-color: #FFA60D;
+	border-color: #FFA60D;
 }
 
 /*===========================
@@ -928,7 +928,7 @@ textarea#message{
 ============================ */
 footer {
 	padding:50px;
-	background:#65AAF0;
+	background:#FFA60D;
 }
 
 footer p {
@@ -1075,3 +1075,10 @@ ul.social-network li a {
 	font-size:12px;
 	text-shadow:none;
 } 
+
+.center-logo {
+
+  width: 100%;
+    height: auto;
+
+}
