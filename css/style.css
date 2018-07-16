@@ -72,10 +72,10 @@ a:hover {
 	float: left;		
 	color:#fff;	
 	text-transform:uppercase;
-	font-family: Yellowtail, cursive;
+	font-family: 'Open Sans', Arial, sans-serif;
 	font-size: 35px;
-	font-style: normal;
-	font-variant: normal;
+	font-style: bold;
+	font-variant: bold;
 	font-weight: 500;
 	line-height: 26.4px;
 }
